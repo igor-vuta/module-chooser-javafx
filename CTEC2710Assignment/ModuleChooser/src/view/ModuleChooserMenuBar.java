@@ -43,7 +43,7 @@ public class ModuleChooserMenuBar extends MenuBar {
 
     }
 
-    // Methods Methods that allow controller toattach handlers
+    // Methods that allow the controller to attach handlers
     public void addSaveHandler(EventHandler<ActionEvent> handler) {
         saveItem.setOnAction(handler);
     }

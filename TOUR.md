@@ -410,7 +410,7 @@ CTEC2710Assignment/ModuleChooser/src/
 ├── model/
 │   ├── Block.java                            5 lines   enum BLOCK_1, BLOCK_2, BLOCK_3_4
 │   ├── Name.java                            52 lines   firstName + familyName
-│   ├── Module.java                         116 lines   Comparable + equals/hashCode
+│   ├── Module.java                         115 lines   Comparable + equals/hashCode
 │   ├── Course.java                          56 lines   name + HashMap<code, Module>
 │   └── StudentProfile.java                 104 lines   aggregate root, Serializable
 ├── view/
