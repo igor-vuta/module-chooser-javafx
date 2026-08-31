@@ -1,0 +1,19 @@
+# fetched JavaFX modules + compile output (run.sh recreates both)
+.fx/
+CTEC2710Assignment/ModuleChooser/bin/
+
+# local-only material, not part of the published project
+CTEC2710K_Object_Oriented_Design_and_Development_Module_Handbook.pdf
+Player.java
+PlayerApp.java
+Register.java
+RegisterApp.java
+.claude/
+.mcp.json
+.idea/
+CTEC2710Assignment/ModuleChooser/.classpath
+CTEC2710Assignment/ModuleChooser/.project
+CTEC2710Assignment/ModuleChooser/.settings/
+CTEC2710Assignment/ModuleChooser/ModuleChooser.iml
+
+.DS_Store
