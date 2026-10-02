@@ -11,6 +11,12 @@
 
 <!-- project-presentation:end -->
 
+<!-- project-pattern:start -->
+
+![One course card branches into three selectable module cards.](.github/project-pattern.svg)
+
+<!-- project-pattern:end -->
+
 <div align="center">
 
 # 🧩 ModuleChooser
