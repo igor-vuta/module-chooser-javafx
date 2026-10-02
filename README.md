@@ -1,3 +1,16 @@
+<!-- project-presentation:start -->
+
+![ModuleChooser — JavaFX course and module selection desktop app](.github/readme-header.svg)
+
+[![Last commit](https://img.shields.io/github/last-commit/igor-vuta/module-chooser-javafx?style=flat-square&color=6366f1)](https://github.com/igor-vuta/module-chooser-javafx/commits)
+[![Repository size](https://img.shields.io/github/repo-size/igor-vuta/module-chooser-javafx?style=flat-square&color=6366f1)](https://github.com/igor-vuta/module-chooser-javafx)
+
+**4** Workflow tabs · **13** Java sources · **MVC** Application architecture
+
+*Project facts checked 2 October 2026. Activity badges update from GitHub.*
+
+<!-- project-presentation:end -->
+
 <div align="center">
 
 # 🧩 ModuleChooser
